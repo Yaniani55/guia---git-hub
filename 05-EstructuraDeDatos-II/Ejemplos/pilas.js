@@ -31,7 +31,7 @@ Pila.prototype.print = function() {
   var pointer = this.head;
   while (pointer != null) {
     console.log(pointer.data);
-    pointer = pointer.next;
+    pointer = pointer.next;K
   }
 }
 
